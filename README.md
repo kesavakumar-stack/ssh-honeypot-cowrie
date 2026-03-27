@@ -62,8 +62,5 @@ tail -f ~/cowrie/var/log/cowrie/cowrie.log
 - Monitored commands executed  
 - Learned honeypot and log analysis  
 
-## 📸 Screenshots
-(Add your screenshots here)
-
 ## 👨‍💻 Author
 Kesavakumar
