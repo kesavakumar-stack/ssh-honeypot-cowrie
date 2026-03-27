@@ -63,7 +63,9 @@ tail -f ~/cowrie/var/log/cowrie/cowrie.log
 - Learned honeypot and log analysis
   
 ## 📸 Screenshots
-
+![Honeypot Running](Screenshot 2026-03-07 222602.png)
+![Attack Logs](Screenshot 2026-03-07 222803.png)
+![Terminal Activity](Screenshot 2026-03-07 222943.png)
 
 
 ## 👨‍💻 Author
