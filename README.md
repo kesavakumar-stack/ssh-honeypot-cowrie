@@ -60,7 +60,11 @@ tail -f ~/cowrie/var/log/cowrie/cowrie.log
 ## 🎯 Outcome
 - Captured attacker login attempts  
 - Monitored commands executed  
-- Learned honeypot and log analysis  
+- Learned honeypot and log analysis
+  
+## 📸 Screenshots
+
+
 
 ## 👨‍💻 Author
 Kesavakumar
